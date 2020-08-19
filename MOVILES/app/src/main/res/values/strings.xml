@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CLASE1</string>
+
+    <!-- MainFrame -->
+    <string name="heyguys">Hey Guys!</string>
+    <string name="smtingImp">Some important thing</string>
+    <string name="left">Left Button</string>
+    <string name="right">Right Button</string>
+</resources>
